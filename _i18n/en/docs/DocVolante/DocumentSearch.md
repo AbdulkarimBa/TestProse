@@ -13,6 +13,7 @@ This option shows a list of folders and files which names match the entry word, 
 
 **Advanced Search**
 
+
 The advanced search enables the user to search for folders and files based of specific criteria which make this search option more accurate.
 
 ![/en/attachments/48.png](/en/attachments/48.png)
