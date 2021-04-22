@@ -2,6 +2,9 @@
 
 ## **Layout**
 
+![Untitled.png]({{site.baseurl}}/_i18n/en/docs/DocVolante/Untitled.png)
+
+
 The application contains two major pages:
 
 1. Login page
