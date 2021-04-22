@@ -17,7 +17,7 @@ Where the content of a page is the same across all screen sizes, only the mobile
 
 ## **Login page**
 
-![/attachments/17.png](/en/attachments/17.png) ![/en/attachments/18.png](/en/attachments/18.png)
+![/en/attachments/17.png](/en/attachments/17.png) ![/en/attachments/18.png](/en/attachments/18.png)
 
 **Document list page**
 
