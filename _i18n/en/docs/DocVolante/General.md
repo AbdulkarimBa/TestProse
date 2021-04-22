@@ -17,7 +17,7 @@ Where the content of a page is the same across all screen sizes, only the mobile
 
 ## **Login page**
 
-![/en/attachments/17.png](/en/attachments/17.png) ![/en/attachments/18.png](/en/attachments/18.png)
+![/attachments/17.png](/en/attachments/17.png) ![/en/attachments/18.png](/en/attachments/18.png)
 
 **Document list page**
 
@@ -112,11 +112,3 @@ The info action displays the properties and version of the selected file.
 For more detailed information about the File versions read the Versioning & Documents history section of the wiki.
 
 ![/en/attachments/45.png](/en/attachments/45.png)![/en/attachments/46.png](/en/attachments/46.png)
-
-
-
-
-
-
-
-
